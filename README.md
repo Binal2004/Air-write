@@ -199,12 +199,4 @@ streamlit run app.py
 
 ---
 
-## 📄 License
 
-MIT License
-
----
-
-## 👩‍💻 Author
-
-**Binal Doshi** | [github.com/Binal2004](https://github.com/Binal2004)
